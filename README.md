@@ -32,13 +32,6 @@ This is a Python-based calculator that uses **hand gestures** for performing bas
 
 ---
 
-## 📸 Demo
-
-*(Add a screenshot or YouTube link here)*  
-![Demo](media/demo.png)
-
----
-
 ## 📦 Installation
 
 ```bash
